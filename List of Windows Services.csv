@@ -1,0 +1,122 @@
+Name,Service Name
+Active Directory Web Services,adws
+AD RMS Logging Service,#N/A
+Application Identity,AppIDSvc
+Background Tasks Infrastructure Service,BrokerInfrastructure
+Credential Manager,VaultSvc
+Device Association Service,DeviceAssociationService
+Device Install Service,DeviceInstall
+Device Setup Manager,DsmSvc
+DFS Replication,dfsr
+DHCP Client,Dhcp
+DHCP Server,#N/A
+Distributed Link Tracking Client,TrkWks
+Encrypting File System (EFS),EFS
+IKE and AuthIP IPsec Keying Modules,IKEEXT
+IPsec Policy Agent,PolicyAgent
+KDC Proxy Server service (KPS),KPSSVC
+KtmRm for distributed transaction Coordinator,KtmRm
+Link-Layer Topology Discovery Mapper,lltdsvc
+Local Session Manager,LSM
+Network Connectivity Assistant,NcaSvc
+Network List service,netprofm
+Optimize drives,defragsvc
+Performance Counter DLL Host,PerfHost
+Power,Power
+Print Spooler,Spooler
+Printer Extensions and Notifications,PrintNotify
+Protected Storage,ProtectedStorage
+RPC Endpoint Mapper,RpcEptMapper
+Smart Card,SCardSvr
+Software Protection,sppsvc
+Spot Verifier,svsvc
+Superfetch,SysMain
+Themes,Themes
+User Access Logging Service,UALSVC
+Windows Error Reporting Service,WerSvc
+Windows Font Cache Service,FontCache
+Windows Store Service (WSService),WSService
+Windows Time,W32Time
+Active directory Certificate Services,#N/A
+Active Directory Domain Services,#N/A
+Application Experience,AeLookupSvc
+Application Information,Appinfo
+Application Layer Gateway Service,ALG
+Application Management,AppMgmt
+Background Intelligent Transfer Service,BITS
+Base Filtering Engine,BFE
+Certificate Propagation,CertPropSvc
+CNG Key Isolation,KeyIso
+COM+ Event System,EventSystem
+COM+ System Application,COMSysApp
+Computer Browser,Browser
+Cryptographic Services,CryptSvc
+DCOM Server Process Launcher,DcomLaunch
+DFS Namespace,#N/A
+Distributed Transactional Coordinator,#N/A
+DNS Client,Dnscache
+DNS Server,#N/A
+Extensible Authentication Protocol,Eaphost
+Function Discovery Provider Host,fdPHost
+Function Discovery resource Publication,FDResPub
+Group Policy Client,gpsvc
+Health Key and Certificate Management,hkmsvc
+Human Interface Device Access,#N/A
+Interactive Services Detection,UI0Detect
+Internet Connection Sharing (ICS),SharedAccess
+IP Helper (IPv6 vs IPv4),#N/A
+Kerberos Key Distribution Center,#N/A
+Microsoft Software Shadow Copy Provider,swprv
+Netlogon,Netlogon
+Network Access Protection Agent,napagent
+Network Connections,Netman
+Network Location Awareness,NlaSvc
+Network Store Interface Service,nsi
+Optimizze drives,#N/A
+Performance Logs & Alerts,pla
+Plug and Play,PlugPlay
+Portable Device Enumerator Service,WPDBusEnum
+Problem Reports and Solutions Control Panel Support,wercplsupport
+Remote Access Auto Connection Manager,RasAuto
+Remote Access Connection Manager,RasMan
+Remote desktop Configuration,SessionEnv
+Remote desktop Services,TermService
+Remote Procedure Call (RPC),RpcSs
+Remote Procedure Call (RPC) Locator,RpcLocator
+Remote Registry,RemoteRegistry
+Resultant Set of Policy Provider,RSoPProv
+Routing and Remote Access,RemoteAccess
+Secondary Logon,seclogon
+Secure Socket tunnelling Protocol Service,#N/A
+Security Accounts Manager,SamSs
+Server,LanmanServer
+Shell Hardware Detection,ShellHWDetection
+Simple Mail Transport Protocol (SMTP),#N/A
+SNMP Trap,SNMPTRAP
+Special Administration Console Helper,sacsvr
+SSDP Discovery,SSDPSRV
+System Event Notification Service,SENS
+Task Scheduler,Schedule
+TCP/IP NetBIOS Help,#N/A
+Telephony,TapiSrv
+Thread Ordering Server,THREADORDER
+UPnP Device Host,upnphost
+User Profile Service,ProfSvc
+Virtual Disk,vds
+Volume Shadow Copy,VSS
+Windows Audio,Audiosrv
+Windows Audio Endpoint Builder,AudioEndpointBuilder
+Windows Color System,WcsPlugInService
+Windows Driver Foundation – User-mode Driver Framework,#N/A
+Windows Event Collector,Wecsvc
+Windows Event Log,EventLog
+Windows Firewall,MpsSvc
+Windows Installer,msiserver
+Windows Management Instrumentation,Winmgmt
+Windows Modules Installer,TrustedInstaller
+Windows remote Management (WS-Management),WinRM
+Windows Update,wuauserv
+WinHTTP Web Proxy Auto-Discovery Service,WinHttpAutoProxySvc
+Wired AutoConfig,dot3svc
+WMI Performance Adapter,wmiApSrv
+Workstation,LanmanWorkstation
