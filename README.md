@@ -1,9 +1,10 @@
 # Windows Settings Extractor
 
-1) Description
+## Description
+
 This is a extraction script I have developed for extracting configurations from Windows for the purpose of performing security configuration review against the Center for Internet Security (CIS) baselines.
 
-2) Why was VBScript (.vbs) chosen?
+## Why was VBScript (.vbs) chosen?
 
-  VBScript was chosen as it is supported by all default installation of Windows. Thus, there is no need to install any other programming languages to run this script.
+VBScript was chosen as it is supported by all default installation of Windows. Thus, there is no need to install any other programming languages to run this script.
 
