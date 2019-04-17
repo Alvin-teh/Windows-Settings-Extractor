@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a extraction script I have developed for extracting configurations from Windows for the purpose of performing security configuration review against the Center for Internet Security (CIS) baselines.
+This is an extraction script I have developed for extracting configurations from Windows for the purpose of performing security configuration review against the Center for Internet Security (CIS) baselines.
 
 ## Why was VBScript (.vbs) chosen?
 
