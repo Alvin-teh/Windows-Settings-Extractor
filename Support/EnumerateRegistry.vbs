@@ -66,7 +66,6 @@ explanationString = _
 "There are multiple ways to apply a particular Windows setting on a machine, through gpedit, services(if available), or directly to the registry. "  & vbCrLf & _ 
 "Some of the settings on gpedit might exhibit a default behavior and this value might not be reflected in the registry if the setting was not explicitly applied" & vbCrLf & _
 "" & vbCRLf & _
-"For further clarifications, please contact Alvin Teh(alvin.teh@sg.ey.com)" & vbCrLf & _
 ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" & vbCRLf
 fileWrite.Write explanationString
 
